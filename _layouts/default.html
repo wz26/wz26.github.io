@@ -14,7 +14,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h2><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h2>
         
 	<!-- <h1><a style="font-family:Chinese;" href="{{ "/" | absolute_url }}">{{ site.chinese_title | default: site.github.repository_name }}</a></h1>-->
         <img src="../assets/img/name_chinese.PNG"  alt="name_chinese" />  
@@ -25,16 +25,13 @@
 					
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-	<h2><a href="../education.html">Education</a><h2>
+	<h3><a href="../education.html">Education</a><h3>
 
-	<h2><a href="../publications.html">Publications</a><h2>
+	<h3><a href="../publications.html">Publications</a><h3>
 
-	<h2><a href="../projects.html">Projects</a><h2>
-
-	<!-- <h2><a href="../another-page.html">Publication</a><h2> 
-	-->
-
-        {% if site.github.is_project_page %}
+	<h3><a href="../projects.html">Projects</a><h3>
+        
+	{% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
 

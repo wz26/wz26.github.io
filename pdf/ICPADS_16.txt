@@ -1,0 +1,8 @@
+@inproceedings{zheng2016sucaqr,
+  title={suCAQR: A Simplified Communication-Avoiding QR Factorization Solver Using the TBLAS Framework},
+  author={Zheng, Weijian and Song, Fengguang and Lin, Lan and Chen, Zizhong},
+  booktitle={Parallel and Distributed Systems (ICPADS), 2016 IEEE 22nd International Conference on},
+  pages={1092--1099},
+  year={2016},
+  organization={IEEE}
+}

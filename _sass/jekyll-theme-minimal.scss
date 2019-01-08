@@ -4,9 +4,9 @@
 body {
   background-color: #fff;
   padding:50px;
-  font: 18px/1.65 Georgia, "Times New Roman", "Microsoft YaHei", 微软雅黑, STXihei, 华文细黑, serif;
+  font: 17px/1.655555 Georgia, "Times New Roman", "Microsoft YaHei", 微软雅黑, STXihei, 华文细黑, serif;
   color:#727272;
-  font-weight:400;
+  font-weight:500;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -56,7 +56,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:860px;
+  width:800px;
   margin:0 auto;
 }
 
@@ -101,7 +101,7 @@ th {
 }
 
 img {
-  max-width:100%;
+  max-width:80%;
 }
 
 header {
@@ -172,7 +172,7 @@ strong {
 }
 
 section {
-  width:500px;
+  width:550px;
   float:right;
   padding-bottom:50px;
 }

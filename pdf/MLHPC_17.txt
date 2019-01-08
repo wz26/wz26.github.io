@@ -1,0 +1,8 @@
+@inproceedings{zheng2017designing,
+  title={Designing a Synchronization-reducing Clustering Method on Manycores: Some Issues and Improvements},
+  author={Zheng, Weijian and Song, Fengguang and Lin, Lan},
+  booktitle={Proceedings of the Machine Learning on HPC Environments},
+  pages={9},
+  year={2017},
+  organization={ACM}
+} 

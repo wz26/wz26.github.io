@@ -1,0 +1,10 @@
+@article{zheng2018scaling,
+  title={Scaling Up Parallel Computation of Tiled QR Factorizations by a Distributed Scheduling Runtime System and Analytical Modeling},
+  author={Zheng, Weijian and Song, Fengguang and Lin, Lan and Chen, Zizhong},
+  journal={Parallel Processing Letters},
+  volume={28},
+  number={01},
+  pages={1850004},
+  year={2018},
+  publisher={World Scientific}
+}
