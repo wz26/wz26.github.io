@@ -1,0 +1,6 @@
+@techreport{wang2018application,
+  title={Application Software Analytics Toolkit for Facilitating the Understanding, Componentization, and Refactoring of Large-Scale Scientific Models},
+  author={Wang, Dali and Zheng, Weijian and Song, Fengguang},
+  year={2018},
+  institution={Oak Ridge National Lab.(ORNL), Oak Ridge, TN (United States)}
+}

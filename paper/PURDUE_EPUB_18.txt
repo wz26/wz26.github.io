@@ -1,0 +1,6 @@
+@article{zheng2018design,
+  title={Design and Implementation of an Efficient Parallel Feel-the-Way Clustering Algorithm on High Performance Computing Systems},
+  author={Zheng, Weijian and Song, Fengguang and Wang, Dali},
+  journal={Purdue E-Pubs},
+  year={2018}
+}
