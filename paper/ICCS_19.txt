@@ -1,0 +1,8 @@
+@inproceedings{iccs2019,
+  title={XScan: An Integrated Tool for Understanding Open Source Community-Based Scientific Code},
+  author={Zheng, Weijian and Wang, Dali and Song, Fengguang},
+  booktitle={International Conference on Computational Science},
+  pages={226--237},
+  year={2019},
+  organization={Springer}
+}
