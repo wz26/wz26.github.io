@@ -4,7 +4,7 @@ layout: default
 
 ## Published Papers
 
-* W. Zheng, D. Wang, F. Song, XScan: An Integrated Tool for Understanding Open Source Community-Based Scientific Code, International Conference on Computational Science (ICCS) 2019. [[pdf](../paper/ICCS_2019.pdf)] [[bibtex](../paper/ICCS_19.txt)]
+* W. Zheng, D. Wang, F. Song, XScan: An Integrated Tool for Understanding Open Source Community-Based Scientific Code, International Conference on Computational Science (ICCS) 2019. [[pdf](../paper/ICCS_19.pdf)] [[bibtex](../paper/ICCS_19.txt)]
 
 * W. Zheng, D. Wang, F. Song, FQL: An Extensible Feature Query Language and Toolkit on Searching Software Characteristics for HPC Applications, arXiv preprint arXiv:1905.09364. [[pdf](../paper/FQL_arXiv_19.pdf)] [[bibtex](../paper/FQL_arXiv_19.txt)]
 
