@@ -4,9 +4,12 @@ layout: default
 
 ## Published Papers
 
-* W. Zheng, D. Wang, F. Song, XScan: An Integrated Tool for Understanding Open Source Community-Based Scientific Code, International Conference on Computational Science (ICCS) 2019. [[pdf](../paper/ICCS_19.pdf)] [[bibtex](../paper/ICCS_19.txt)]
 
-* W. Zheng, D. Wang, F. Song, FQL: An Extensible Feature Query Language and Toolkit on Searching Software Characteristics for HPC Applications, arXiv preprint arXiv:1905.09364. [[pdf](../paper/FQL_arXiv_19.pdf)] [[bibtex](../paper/FQL_arXiv_19.txt)]
+* W. Zheng, D. Wang, F. Song, OpenGraphGym: A Parallel Reinforcement Learning Framework for Graph Optimization Problems, International Conference on Computational Science (ICCS) 2020. [[pdf](../paper/ICCS_20.pdf)] [accepted]
+
+* W. Zheng, D. Wang, F. Song, FQL: An Extensible Feature Query Language and Toolkit on Searching Software Characteristics for HPC Applications in: Proceedings of the International Workshop on Software Engineering for HPC-Enabled Research, Supercomputing 2019 (SC’19), Nov. 2019. [[pdf](../paper/FQL_arXiv_19.pdf)] [[bibtex](../paper/FQL_arXiv_19.txt)]
+
+* W. Zheng, D. Wang, F. Song, XScan: An Integrated Tool for Understanding Open Source Community-Based Scientific Code, International Conference on Computational Science (ICCS) 2019. [[pdf](../paper/ICCS_19.pdf)] [[bibtex](../paper/ICCS_19.txt)]
 
 * W. Zheng, F. Song, L. Lin, Z. Chen, Scaling Up Parallel Computation of Tiled QR Factorizations by a Distributed Scheduling Runtime System and Analytical Modeling, Parallel Processing Letter 28(01). [[pdf](../paper/PPL_18.pdf)] [[bibtex](../paper/PPL_18.txt)]
 

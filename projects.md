@@ -4,12 +4,16 @@ layout: default
 
 ## Projects
 
-* **Application Software Analytics Toolkit**  
-  * Jan. 2018 - Present
-  * Design and implement the software analytics toolkit for facilitating the understanding and refactoring of large-scale scientific models.
-  * Currently applying graph algorithms to the software analysis.
-  * Two papers in review now. 
-  * Keywords: application software analysis, static code analysis, high performance application, graph algorithm.
+* **Parallel Reinforcement Learning Framework for Graph Optimization Problems**  
+  * Jan. 2019 - Present
+  * Design and implement an open-source, parallel AI environment to address combinatorial large-scale graph optimization problems. 
+  * Keywords: artificial intelligence, deep reinforcement learning, graph optimization problems, distributed GPU computing, open AI software environment.
+
+* **Software Analytics Toolkit**  
+  * Jan. 2018 - Dec. 2018
+  * Design and implement the software analytics toolkit for understanding open source community-based scientific code.
+  * Applying graph algorithms to the software analysis.
+  * Keywords: application software analysis, static code analysis, high performance scientific application, graph algorithm.
 
 * **High Performance Synchronization-reducing Clustering Library** 
   * Jan. 2016 - Dec. 2018
