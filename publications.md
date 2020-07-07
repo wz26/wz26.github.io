@@ -5,7 +5,7 @@ layout: default
 ## Published Papers
 
 
-* W. Zheng, D. Wang, F. Song, OpenGraphGym: A Parallel Reinforcement Learning Framework for Graph Optimization Problems, International Conference on Computational Science (ICCS) 2020. [[pdf](../paper/ICCS_20.pdf)] [accepted]
+* W. Zheng, D. Wang, F. Song, OpenGraphGym: A Parallel Reinforcement Learning Framework for Graph Optimization Problems, International Conference on Computational Science (ICCS) 2020. [[pdf](../paper/ICCS_20.pdf)] [[bibtex](../paper/ICCS_20.txt)]
 
 * W. Zheng, D. Wang, F. Song, FQL: An Extensible Feature Query Language and Toolkit on Searching Software Characteristics for HPC Applications in: Proceedings of the International Workshop on Software Engineering for HPC-Enabled Research, Supercomputing 2019 (SC’19), Nov. 2019. [[pdf](../paper/FQL_arXiv_19.pdf)] [[bibtex](../paper/FQL_arXiv_19.txt)]
 

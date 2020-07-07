@@ -1,6 +1,9 @@
-@article{zheng2019fql,
-  title={FQL: An Extensible Feature Query Language and Toolkit on Searching Software Characteristics for HPC Applications},
+@incollection{zheng2019fql,
+  title={FQL: an extensible feature query language and toolkit on searching software characteristics for HPC applications},
   author={Zheng, Weijian and Wang, Dali and Song, Fengguang},
-  journal={arXiv preprint arXiv:1905.09364},
-  year={2019}
+  booktitle={Tools and Techniques for High Performance Computing},
+  pages={129--142},
+  year={2019},
+  publisher={Springer}
 }
+

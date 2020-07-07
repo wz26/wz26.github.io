@@ -1,0 +1,8 @@
+@inproceedings{zheng2020opengraphgym,
+  title={OpenGraphGym: A Parallel Reinforcement Learning Framework for Graph Optimization Problems},
+  author={Zheng, Weijian and Wang, Dali and Song, Fengguang},
+  booktitle={International Conference on Computational Science},
+  pages={439--452},
+  year={2020},
+  organization={Springer}
+}
