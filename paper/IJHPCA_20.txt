@@ -1,0 +1,8 @@
+@article{ijhpca2020,
+  title={Designing a parallel Feel-the-Way clustering algorithm on HPC systems},
+  author={Zheng, Weijian and Wang, Dali and Song, Fengguang},
+  journal={The International Journal of High Performance Computing Applications},
+  pages={1094342020975194},
+  year={2020},
+  publisher={SAGE Publications Sage UK: London, England}
+}
