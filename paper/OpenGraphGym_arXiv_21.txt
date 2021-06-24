@@ -1,0 +1,6 @@
+@article{zheng2021opengraphgym,
+  title={OpenGraphGym-MG: Using Reinforcement Learning to Solve Large Graph Optimization Problems on MultiGPU Systems},
+  author={Zheng, Weijian and Wang, Dali and Song, Fengguang},
+  journal={arXiv preprint arXiv:2105.08764},
+  year={2021}
+}
