@@ -6,9 +6,11 @@ layout: default
 
 * **Parallel Reinforcement Learning Framework for Graph Optimization Problems**  
   * Jan. 2019 - Present
-  * Design and implement an open-source, parallel AI environment to address combinatorial large-scale graph optimization problems. 
-  * Achieve good scalability for both inference and training using up to 192 GPUs
-  * Keywords: artificial intelligence, deep reinforcement learning, graph optimization problems, distributed GPU computing, open AI software environment.
+  * Design and implement an open-source, parallel AI environment to address large-scale graph problems.
+  * Achieve good scalability for both inference and training using up to 192 GPUs.
+  * Outperform the state-of-the-art distributed multi-agent reinforcement learning approach 2.6 time.
+  * A paper has been accepted by [[ICCS’20](../paper/ICCS_20.pdf)].
+  * Keywords: distributed reinforcement learning, graph optimization problems, distributed-GPU computing.
 
 * **Software Analytics Toolkit**  
   * Jan. 2018 - Dec. 2018
