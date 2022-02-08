@@ -4,8 +4,7 @@ layout: default
 
 ## Others:
 
-* **Sports**
-* I like watch F1 (wheel-to-wheel battle!) and NFL in my spare time.
+* I like watching F1 and NFL in my spare time.
 
 
 [back](./)
