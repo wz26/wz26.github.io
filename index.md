@@ -10,8 +10,6 @@ I am a Ph.D. candidate in Computer Science at Purdue University. I am advised by
 
 * zheng273 at purdue dot edu
 * wz26 at iu dot edu
-
-  <br />
   
   <img src="photos/2022/fall02.JPG" alt="fall" width="450" height="300"/>
 
