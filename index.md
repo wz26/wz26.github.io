@@ -13,4 +13,4 @@ I am a Ph.D. candidate in Computer Science at Purdue University. I am advised by
 
 * This is photo I took in 2022:
   
-  <img src="photos/2022/summer.JPG" alt="summer" width="225" height="150"/>
+  <img src="photos/2022/fall02.JPG" alt="fall" width="270" height="180"/>
