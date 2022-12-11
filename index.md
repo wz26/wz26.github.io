@@ -12,8 +12,7 @@ I am a Ph.D. candidate in Computer Science at Purdue University. I am advised by
 * wz26 at iu dot edu
 
   <br />
-  <br />
   
-  <img src="photos/2022/fall02.JPG" alt="fall" width="270" height="180"/>
+  <img src="photos/2022/fall02.JPG" alt="fall" width="450" height="300"/>
 
   This is a photo I took recently
