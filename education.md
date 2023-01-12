@@ -4,7 +4,7 @@ layout: default
 
 ## Education:
 
-* Purdue University (2014 - Present) 
+* Purdue University (2014 - 2022) 
   <br /> Ph.D. in Computer Science
 
 * Ball State University (2011 - 2014) 
