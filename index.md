@@ -10,6 +10,7 @@ I am a Postdoc Appointee at Argonne National Labratory. My research interests in
 
 * wzheng at anl dot gov
   
-  <img src="photos/2022/fall02.JPG" alt="fall" width="450" height="300"/>
 
-  This is a photo I took recently
+<img src="photos/2022/fall02.JPG" alt="fall" width="450" height="300"/>
+
+This is a photo I took recently
