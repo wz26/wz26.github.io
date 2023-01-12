@@ -4,12 +4,11 @@ layout: default
 
 ## Welcome to Weijian Zheng's page!
 
-I am a Ph.D. candidate in Computer Science at Purdue University. I am advised by Dr. [Fengguang Song](https://cs.iupui.edu/~fgsong/). My research interests include Parallel Algorithms Design, Parallel Machine Learning, High Performance Computing and Distributed Systems.
+I am a Postdoc Appointee at Argonne National Labratory. My research interests include Parallel Algorithms Design, Parallel Machine Learning, High Performance Computing and Distributed Systems.
    
 ## Contact:
 
-* zheng273 at purdue dot edu
-* wz26 at iu dot edu
+* wzheng at anl dot gov
   
   <img src="photos/2022/fall02.JPG" alt="fall" width="450" height="300"/>
 
