@@ -4,6 +4,8 @@ layout: default
 
 ## Published Papers
 
+* W. Zheng, D. Wang, F. Song, A Distributed-GPU Deep Reinforcement Learning System for Solving Large Graph Optimization Problems, ACM Transactions on Parallel Computing 2023. [[pdf](../paper/TOPC_23)] [[bibtex](../paper/TOPC_23.txt)]
+
 * W. Zheng, D. Wang, F. Song, OpenGraphGym-MG: Using Reinforcement Learning to Solve Large Graph Optimization Problems on MultiGPU Systems, arXiv preprint arXiv:2105.08764. [[pdf](../paper/OpenGraphGym_arXiv_21.pdf)] [[bibtex](../paper/OpenGraphGym_arXiv_21.txt)]
 
 * W. Zheng, D. Wang, F. Song, Designing a parallel Feel-the-Way clustering algorithm on HPC systems, The International Journal of High Performance Computing Applications, November 2020. [[pdf](../paper/IJHPCA_20.pdf)] [[bibtex](../paper/IJHPCA_20.txt)]
