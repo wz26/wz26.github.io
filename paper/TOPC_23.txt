@@ -1,0 +1,7 @@
+@article{zheng2023distributed,
+  title={A Distributed-GPU Deep Reinforcement Learning System for Solving Large Graph Optimization Problems},
+  author={Zheng, Weijian and Wang, Dali and Song, Fengguang},
+  journal={ACM Transactions on Parallel Computing},
+  year={2023},
+  publisher={ACM New York, NY}
+}
