@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Talks:
 
 * 03/29/23: Guest lecture at University of North Texas
