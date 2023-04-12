@@ -1,0 +1,8 @@
+@inproceedings{feng2021micromobility,
+  title={Micromobility in smart cities: A closer look at shared dockless e-scooters via big social data},
+  author={Feng, Yunhe and Zhong, Dong and Sun, Peng and Zheng, Weijian and Cao, Qinglei and Luo, Xi and Lu, Zheng},
+  booktitle={ICC 2021-IEEE International Conference on Communications},
+  pages={1--6},
+  year={2021},
+  organization={IEEE}
+}
