@@ -8,6 +8,8 @@ layout: default
 
 * W. Zheng, D. Wang, F. Song, OpenGraphGym-MG: Using Reinforcement Learning to Solve Large Graph Optimization Problems on MultiGPU Systems, arXiv preprint arXiv:2105.08764. [[pdf](../paper/OpenGraphGym_arXiv_21.pdf)] [[bibtex](../paper/OpenGraphGym_arXiv_21.txt)]
 
+* Y. Feng, D. Zhong, P. Sun, W. Zheng, Q. Cao, X. Luo, Z. Lu, Micromobility in smart cities: A closer look at shared dockless e-scooters via big social data. IEEE International Conference on Communications, June 2021. [[pdf](../paper/ICC_21.pdf)] [[bibtex](../paper/ICC_21.txt)]
+
 * W. Zheng, D. Wang, F. Song, Designing a parallel Feel-the-Way clustering algorithm on HPC systems, The International Journal of High Performance Computing Applications, November 2020. [[pdf](../paper/IJHPCA_20.pdf)] [[bibtex](../paper/IJHPCA_20.txt)]
 
 * W. Zheng, D. Wang, F. Song, OpenGraphGym: A Parallel Reinforcement Learning Framework for Graph Optimization Problems, International Conference on Computational Science (ICCS) 2020. [[pdf](../paper/ICCS_20.pdf)] [[bibtex](../paper/ICCS_20.txt)]
