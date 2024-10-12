@@ -1,0 +1,6 @@
+@article{2024steering,
+  title={Steering a Fleet: Adaptation for Large-Scale, Workflow-Based Experiments},
+  author={Pruyne, Jim and Hayot-Sasson, Valerie and Zheng, Weijian and Chard, Ryan and Wozniak, Justin M and Bicer, Tekin and Chard, Kyle and Foster, Ian T},
+  journal={arXiv preprint arXiv:2403.06077},
+  year={2024}
+}

@@ -1,0 +1,7 @@
+@inproceedings{hpdc24_CereSZ,
+  title={CereSZ: Enabling and Scaling Error-bounded Lossy Compression on Cerebras CS-2},
+  author={Song, Shihui and Huang, Yafan and Jiang, Peng and Yu, Xiaodong and Zheng, Weijian and Di, Sheng and Cao, Qinglei and Feng, Yunhe and Xie, Zhen and Cappello, Franck},
+  booktitle={Proceedings of the 33rd International Symposium on High-Performance Parallel and Distributed Computing},
+  pages={309--321},
+  year={2024}
+}

@@ -4,8 +4,12 @@ layout: default
 
 ## Projects
 
+* **Rapid Detection of Rare Events from in situ X-ray Diffraction Data using Machine Learning**  
+  * Jan. 2023 - Current
+  <!-- * Keywords: AI4Science, Anomaly Detection. -->
+
 * **Parallel Reinforcement Learning Framework for Graph Optimization Problems**  
-  * Jan. 2019 - present
+  * Jan. 2019 - Dec. 2022
   * Design and implement an open-source, parallel AI environment to address large-scale graph problems.
   * Achieve good scalability for both inference and training using up to 192 GPUs.
   * Outperform the state-of-the-art distributed multi-agent reinforcement learning approach by up to 2.6 times. 

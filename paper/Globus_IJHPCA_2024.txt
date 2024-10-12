@@ -1,0 +1,8 @@
+@article{zheng2024globus,
+  title={Globus service enhancements for exascale applications and facilities},
+  author={Zheng, Weijian and Kordas, Jack and Skluzacek, Tyler J and Kettimuthu, Raj and Foster, Ian},
+  journal={The International Journal of High Performance Computing Applications},
+  pages={10943420241281744},
+  year={2024},
+  publisher={SAGE Publications Sage UK: London, England}
+}

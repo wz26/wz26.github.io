@@ -1,0 +1,8 @@
+@inproceedings{s3llm,
+  title={S3LLM: Large-S cale S cientific S oftware Understanding with LLMs Using Source, Metadata, and Document},
+  author={Shaik, Kareem and Wang, Dali and Zheng, Weijian and Cao, Qinglei and Fan, Heng and Schwartz, Peter and Feng, Yunhe},
+  booktitle={International Conference on Computational Science},
+  pages={222--230},
+  year={2024},
+  organization={Springer}
+}
