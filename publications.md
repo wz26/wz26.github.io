@@ -8,7 +8,7 @@ layout: default
 
 * W. Zheng, J. Park, P. Kenesei, A. Ali, Z. Liu, I. Foster, N. Schwarz, R. Kettimuthu, A. Miceli and H. Sharma, Rapid detection of rare events from in situ X-ray diffraction data using machine learning, JOURNAL OF APPLIED CRYSTALLOGRAPHY July 2024. [[pdf](../paper/IUCRJ_24.pdf)] [[bibtex](../paper/IUCRJ_24.txt)]
 
-* K. Shaik, D. Wang, W. Zheng, Q. Cao, H. Fan, P. Schwartz, Y. Feng, S3LLM: Large-Scale Scientific Software Understanding with LLMs Using Source, Metadata, and Document, ACM Transactions on Parallel Computing 2023. [[pdf](../paper/ICCS_24.pdf)] [[bibtex](../paper/ICCS_24.txt)]
+* K. Shaik, D. Wang, W. Zheng, Q. Cao, H. Fan, P. Schwartz, Y. Feng, S3LLM: Large-Scale Scientific Software Understanding with LLMs Using Source, Metadata, and Document, International Conference on Computational Science (ICCS) 2024. [[pdf](../paper/ICCS_24.pdf)] [[bibtex](../paper/ICCS_24.txt)]
 
 * S. Song, Y. Huang, P. Jiang, X. Yu, W. Zheng, S. Di, Q. Cao, Y. Feng, Z. Xie, F. Cappello, CereSZ: Enabling and Scaling Error-bounded Lossy Compression on Cerebras CS-2, Proceedings of the 33rd International Symposium on High-Performance Parallel and Distributed Computing, [[pdf](https://dl.acm.org/doi/pdf/10.1145/3625549.3658691)] [[bibtex](../paper/HPDC_24.txt)]
 
