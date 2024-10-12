@@ -4,7 +4,7 @@ layout: default
 
 ## Professional Experience:
 
-* Argonne National Laboratory (2023 - Current) <br /> Postdoc Appointee <br /> Indianapolis, IN 
+* Argonne National Laboratory (2023 - Current) <br /> Postdoc Appointee <br /> Lemont, IL 
 
 * Purdue University (2014 - 2022) <br /> Graduate Research Assistant <br /> Indianapolis, IN 
 
