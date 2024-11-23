@@ -26,7 +26,7 @@ layout: default
 
   <br />
 
-  <img src="photos/2022/IMG_0209.HEIC" alt="flight" width="200" height="300"/>
+  <img src="photos/2022/IMG_0209.jpg" alt="flight" width="200" height="300"/>
   
 [back](./)
 
