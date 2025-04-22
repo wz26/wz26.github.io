@@ -5,7 +5,7 @@ layout: default
 ## Welcome to Weijian Zheng's page!
 
 
-I am a Postdoc Appointee at Argonne National Laboratory. I earned my Ph.D. in Computer Science from the Purdue University (PUWL) department of Computer Science under the direction of Dr. [Fengguang Song](https://homes.luddy.indiana.edu/fgsong/). My research interests include Parallel Algorithms Design, Parallel Machine Learning, High Performance Computing, Distributed Systems, and AI4Science. [[Curriculum Vitae](../paper/cv_042225.pdf)]
+I am a Postdoc Appointee at Argonne National Laboratory. I earned my Ph.D. in Computer Science from the Purdue University (PUWL) department of Computer Science under the direction of Dr. [Fengguang Song](https://homes.luddy.indiana.edu/fgsong/). My research interests include Parallel Algorithms Design, Parallel Machine Learning, High Performance Computing, Distributed Systems, and AI4Science. [[Curriculum Vitae](../paper/CV_042225.pdf)]
 
 
 ## Contact:
