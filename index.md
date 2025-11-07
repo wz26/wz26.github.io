@@ -15,4 +15,5 @@ I am a Postdoc Appointee at Argonne National Laboratory. I earned my Ph.D. in Co
   
 ## Latest News:
 
+* I am among the 12 postdocs who receive the 2025 Argonne Postdoctoral Performance Awards.
 * I received the 2024 Laboratory Directed Research & Development (LDRD) seed funding awards from Argonne (my role: Sole PI).
