@@ -13,7 +13,7 @@ I am an assistant computer scientist at Argonne National Laboratory. I earned my
 * wzheng at anl dot gov
   
   
-## Latest News:
+## Awards:
 
 * I am among 12 recipients of the [2025 Argonne Postdoctoral Performance Awards](https://www.anl.gov/hr/postdoctoral-programs/performance-awards).
 * I received the 2024 Laboratory Directed Research & Development (LDRD) seed funding awards from Argonne [(my role: Sole PI)](https://www.osti.gov/biblio/2573997).
